@@ -1,1 +1,1 @@
-# image_colourization
+This project demonstrates how deep learning can effectively transform grayscale images into realistic colored outputs. It highlights the potential of neural networks in automating complex visual tasks.
